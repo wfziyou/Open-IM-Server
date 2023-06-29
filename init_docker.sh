@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 # This script is used to check the environment and start the docker containers
-
 # Define the directory path
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
